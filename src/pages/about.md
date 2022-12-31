@@ -12,5 +12,3 @@ description: "Our Mission: To transform our current greenspaces from mowed grass
 - Early Winter of 2022: applied for a grant to raise more money to progress project further with hopes for the installation of bluebird and bat nest boxes and additional wildflower trails.
 
 - Winter of 2023: Plan and purchase seed for late winter planting. Raise seedlings over winter for spring planting.
-
-![src/wildflowers.jpeg]
