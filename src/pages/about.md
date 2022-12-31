@@ -3,7 +3,7 @@ title: "About"
 description: "Our Mission: To transform our current greenspaces from mowed grasses to wildflower habitats that support pollinators and native wildlife"
 ---
 
-![](https://nsf-gov-resources.nsf.gov/styles/news_hero_tablet_1200x468_/s3/news/monarch_butterflies_f.jpg?itok=_AwAAKrX)
+<img src="/img/monarch.jpeg">
 
 - Summer of 2022: Committee was formed and we began raising awareness and money for this project.
 
